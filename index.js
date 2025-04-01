@@ -7,5 +7,5 @@ function showNavbar() {
 }
 
 function closeNavbar() {
-    sidenav.style.left = "-110%"
+    sidenav.style.left = "-60%"
 }
